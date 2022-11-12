@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    <string name="name">Enter Name</string>
+    <string name="add">ADD</string>
+    <string name="delete">DELETE</string>
+    <string name="edit">EDIT</string>
+</resources>
